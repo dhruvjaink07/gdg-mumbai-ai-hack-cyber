@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034179588846",
+    "project_id": "soc-analyst-51da1",
+    "storage_bucket": "soc-analyst-51da1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034179588846:android:a4b66ca4647c247561f9ff",
+        "android_client_info": {
+          "package_name": "com.example.code"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqxhtFGuHB5M3Hg-jTH-DTJH7n1FbBXSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
