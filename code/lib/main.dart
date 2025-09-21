@@ -8,6 +8,7 @@ import 'core/providers/theme_provider.dart';
 import 'features/alerts/pages/alerts_list_page.dart';
 
 void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
 await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
 );
