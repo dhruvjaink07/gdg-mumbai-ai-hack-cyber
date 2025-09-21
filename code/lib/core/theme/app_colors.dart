@@ -35,4 +35,4 @@ class AppColors {
   static const Color statusInvestigating = Color(0xFF765D67); // Muted purple
   static const Color statusResolved = Color(0xFF10B981);
   static const Color statusEscalated = Color(0xFF4B2138); // Deep burgundy
-}
+}           

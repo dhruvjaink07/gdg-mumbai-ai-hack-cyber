@@ -153,7 +153,7 @@ class _AlertsListPageState extends State<AlertsListPage>
           Expanded(child: _buildAlertsContent()),
         ],
       ),
-      floatingActionButton: _buildFloatingActionButton(),
+      // floatingActionButton: _buildFloatingActionButton(),
     );
   }
 
